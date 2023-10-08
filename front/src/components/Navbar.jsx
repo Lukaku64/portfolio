@@ -4,7 +4,7 @@ import log from "../assets/react.svg";
 function Navbar() {
   return (
     <nav
-      className={`text-white p-5 flex justify-between items-center bg-teal-500	`}
+      className={`text-white p-5 flex justify-between items-center bg-teal-500`}
     >
       <a href="/">
         <img src={log} alt="" className="ml-40" />
