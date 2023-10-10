@@ -1,0 +1,23 @@
+body {
+  font-family: "Poppins", sans-serif;
+}
+
+.background-image {
+  background-image: url("../src/assets/bgSpace.jpg");
+  background-size: cover;
+}
+
+.background-opacity {
+  background-color: black;
+  width: 100%;
+  height: 100%;
+}
+
+.container-center {
+  margin-left: 20%;
+  margin-right: 20%;
+}
+
+.icon-size {
+  font-size: 1.5rem;
+}
